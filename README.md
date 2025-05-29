@@ -1,11 +1,26 @@
-# Sample Snack app
+# vesti-app
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+**vesti-app** é um aplicativo mobile de compra de roupas desenvolvido em React Native. Este projeto foi criado com o objetivo de servir como material de aprendizado para quem deseja entender e praticar o desenvolvimento com React Native.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## Tecnologias
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+- React Native
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+## Sobre o projeto
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+O app simula uma experiência de compra de roupas, oferecendo uma interface simples e prática para quem quer aprender os conceitos básicos de React Native.
+
+## Como usar
+
+- Abra o arquivo `App.js` para começar a modificar o código.
+- Use um emulador iOS/Android ou um dispositivo físico para testar o app.
+- Experimente funcionalidades, faça alterações e aprenda!
+
+## Contribuições
+
+Este projeto é aberto para contribuições e melhorias. Sinta-se à vontade para abrir issues ou pull requests.
+
+## Licença
+
+Este projeto é de uso livre para aprendizado.
+
